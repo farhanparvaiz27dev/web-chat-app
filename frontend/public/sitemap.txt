@@ -1,0 +1,16 @@
+https://web-chat.netlify.app/
+
+https://web-chat.netlify.app/auth/welcome/
+https://web-chat.netlify.app/auth/login/
+https://web-chat.netlify.app/auth/register/
+https://web-chat.netlify.app/auth/verify/
+https://web-chat.netlify.app/auth/forgot-password/
+https://web-chat.netlify.app/auth/reset-password/
+
+https://web-chat.netlify.app/auth/app/
+https://web-chat.netlify.app/auth/group/
+https://web-chat.netlify.app/auth/profile/
+https://web-chat.netlify.app/auth/contact/
+https://web-chat.netlify.app/auth/settings/
+
+https://web-chat.netlify.app/docs/tnc/
