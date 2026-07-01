@@ -1,7 +1,6 @@
  web-chat 
 A Real-Time web-based MERN Chat App by Farhan Parvaiz.
 { Development in Progress }
-![web-chat](https://i.imgur.com/CMGzVa3.png)
 ## ✅ Site Status
 ## 💻 Tech Stack
 ![MongoDB](https://img.shields.io/badge/mongodb-001E2B?style=for-the-badge&logo=mongodb&logoColor=00ED64)
